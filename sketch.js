@@ -57,7 +57,7 @@ function preload() {
 atkmenu = loadImage("assets/weaponsmenu.png")
 spellmenu = loadImage("assets/spellmenu.png")
 itemmenu = loadImage("assets/itemmenu.png")
-atkyel = loadImage("assets/weapons1.png");
+atkyel = loadImage("assets/WEAPONS1.png");
 spellyel = loadImage("assets/spells1.png");
 itemyel = loadImage("assets/items1.png");
 atk = loadImage("assets/weapons.png");
