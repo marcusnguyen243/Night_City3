@@ -57,13 +57,13 @@ function preload() {
 atkmenu = loadImage("assets/weaponsmenu.png")
 spellmenu = loadImage("assets/spellmenu.png")
 itemmenu = loadImage("assets/itemmenu.png")
-atkyel = loadImage("assets/weapons1.png");
+atkyel = loadImage("assets/WEAPONS1.png");
 spellyel = loadImage("assets/spells1.png");
 itemyel = loadImage("assets/items1.png");
 atk = loadImage("assets/weapons.png");
-spell = loadImage("assets/spells.png");
-item = loadImage("assets/items.png");
-weapon = loadImage("assets/WEAPONS.png");
+// spell = loadImage("assets/spells.png");
+// item = loadImage("assets/items.png");
+// weapon = loadImage("assets/WEAPONS.png");
   snd1 = loadSound("assets/beatbox.mp3");
   snd2 = loadSound("assets/beat.mp3");
   snd3 = loadSound("assets/death.mp3");
